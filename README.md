@@ -4,7 +4,8 @@ This repository centralizes all my development projects, organized by language a
 
 ### Express.js
 - 🔹 [Game Vibes](https://github.com/josesiyo-robbio/GameVibes-f2p_express) - API RESTful for game recommendations
-- 🔹 [E-commerce Backend]() - Backend para tienda online
+- 🔹 [Secret Santa ](https://github.com/josesiyo-robbio/secret-santa_express) - Backend for the Secret Santa game.
+- 🔹 [Book Club](https://github.com/josesiyo-robbio/book-club_express.git) - Backend for a book club.
 
 ### Vue.js
 - 💚 [Dashboard Admin](https://github.com/tuusuario/dashboard-vue) - Panel de administración con Vue 3
