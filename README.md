@@ -38,8 +38,11 @@ This repository centralizes all my development projects, organized by language a
 - ☕ [Game Vibes (Java Version)](https://github.com/josesiyo-robbio/GameVibes-F2P_springboot.git) - API RESTful for game recommendations
 
 ### Legacy Java
-- ⚡ [Sistema de Inventario](https://github.com/tuusuario/inventory) - Sistema de gestión de inventario
-- ⚡ [Gestor Documental](https://github.com/tuusuario/doc-manager) - Sistema de gestión documental
+- ⚡ [Netflix Clone](https://github.com/josesiyo-robbio/JavaNetflixCloneMVC.git) - Netflix clone in SpringMVC with Ant.
+- ⚡ [External Sorting](https://github.com/josesiyo-robbio/ExternalSorting.git) - External Sorting implementation in Java 8.
+- ⚡ [Gestor Documental]() - Sistema de gestión documental
+- ⚡ [Gestor Documental]() - Sistema de gestión documental
+- ⚡ [Gestor Documental]() - Sistema de gestión documental
 
 ## PHP
 - 🐘 [Blog CMS](https://github.com/tuusuario/blog-cms) - Sistema de gestión de contenidos
