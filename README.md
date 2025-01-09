@@ -40,9 +40,8 @@ This repository centralizes all my development projects, organized by language a
 ### Legacy Java
 - ⚡ [Netflix Clone](https://github.com/josesiyo-robbio/JavaNetflixCloneMVC.git) - Netflix clone in SpringMVC with Ant.
 - ⚡ [External Sorting](https://github.com/josesiyo-robbio/ExternalSorting.git) - External Sorting implementation in Java 8.
-- ⚡ [Gestor Documental]() - Sistema de gestión documental
-- ⚡ [Gestor Documental]() - Sistema de gestión documental
-- ⚡ [Gestor Documental]() - Sistema de gestión documental
+- ⚡ [Movie Theaters](https://github.com/josesiyo-robbio/movieTheater-.git) - Simulation of a cinema app.
+- ⚡ [Converter](https://github.com/josesiyo-robbio/Decimal-Hexadecimal-Binary-Converter.git) - Decimal Hexadecimal Binary - Converter built from scratch.
 
 ## PHP
 - 🐘 [Blog CMS](https://github.com/tuusuario/blog-cms) - Sistema de gestión de contenidos
