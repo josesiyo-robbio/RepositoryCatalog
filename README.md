@@ -31,11 +31,11 @@ This repository centralizes all my development projects, organized by language a
 ## Java
 
 ### Spring Boot
-- ☕ [Kitten Adoption (Java Version)](https://github.com/josesiyo-robbio/kitten-adoption_express) - Backend for a cat adoption shelter.
-- ☕ [Speed Dating (Java Version)](https://github.com/josesiyo-robbio/speed-dating_express) - Backend for a speed dating venue.
-- ☕ [Book Club (Java Version)](https://github.com/josesiyo-robbio/book-club_express.git) - Backend for a book club.
-- ☕ [Secret Santa (Java Version)](https://github.com/josesiyo-robbio/secret-santa_express) - Backend for the Secret Santa game.
-- ☕ [Game Vibes (Java Version)](https://github.com/josesiyo-robbio/GameVibes-f2p_express) - API RESTful for game recommendations
+- ☕ [Kitten Adoption (Java Version)](https://github.com/josesiyo-robbio/kitten-adoption_springboot.git) - Backend for a cat adoption shelter.
+- ☕ [Speed Dating (Java Version)](https://github.com/josesiyo-robbio/speed-dating_springboot.git) - Backend for a speed dating venue.
+- ☕ [Book Club (Java Version)](https://github.com/josesiyo-robbio/book-club_springboot.git) - Backend for a book club.
+- ☕ [Secret Santa (Java Version)](https://github.com/josesiyo-robbio/secret-santa_springboot.git) - Backend for the Secret Santa game.
+- ☕ [Game Vibes (Java Version)](https://github.com/josesiyo-robbio/GameVibes-F2P_springboot.git) - API RESTful for game recommendations
 
 ### Legacy Java
 - ⚡ [Sistema de Inventario](https://github.com/tuusuario/inventory) - Sistema de gestión de inventario
