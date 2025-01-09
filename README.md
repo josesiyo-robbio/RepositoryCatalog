@@ -6,6 +6,9 @@ This repository centralizes all my development projects, organized by language a
 - 🔹 [Game Vibes](https://github.com/josesiyo-robbio/GameVibes-f2p_express) - API RESTful for game recommendations
 - 🔹 [Secret Santa ](https://github.com/josesiyo-robbio/secret-santa_express) - Backend for the Secret Santa game.
 - 🔹 [Book Club](https://github.com/josesiyo-robbio/book-club_express.git) - Backend for a book club.
+- 🔹 [Speed Dating](https://github.com/josesiyo-robbio/speed-dating_express) - Backend for a speed dating venue.
+- 🔹 [Kitten Adoption](https://github.com/josesiyo-robbio/kitten-adoption_express) - Backend for a cat adoption shelter.
+
 
 ### Vue.js
 - 💚 [Dashboard Admin](https://github.com/tuusuario/dashboard-vue) - Panel de administración con Vue 3
