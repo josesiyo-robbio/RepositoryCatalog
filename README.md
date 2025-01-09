@@ -30,7 +30,11 @@ This repository centralizes all my development projects, organized by language a
 ## Mobile Development
 
 ### Flutter
-- 💙 [App de Fitness](https://github.com/tuusuario/fitness-app) - Aplicación móvil de seguimiento fitness
+- 💙 [Credit Small Store](https://github.com/josesiyo-robbio/magicStore.git) - Credit management for a small store.
+- 💙 [App de Fitness]() - Aplicación móvil de seguimiento fitness
+- 💙 [App de Fitness]() - Aplicación móvil de seguimiento fitness
+- 💙 [App de Fitness]() - Aplicación móvil de seguimiento fitness
+- 💙 [App de Fitness]() - Aplicación móvil de seguimiento fitness
 - 💙 [Wallet App](https://github.com/tuusuario/wallet-app) - Billetera digital móvil
 
 ## Java
