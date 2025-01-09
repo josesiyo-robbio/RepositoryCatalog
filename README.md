@@ -10,14 +10,6 @@ This repository centralizes all my development projects, organized by language a
 - 🔹 [Kitten Adoption](https://github.com/josesiyo-robbio/kitten-adoption_express) - Backend for a cat adoption shelter.
 
 
-### Vue.js
-- 💚 [Dashboard Admin](https://github.com/tuusuario/dashboard-vue) - Panel de administración con Vue 3
-- 💚 [Chat App](https://github.com/tuusuario/chat-vue) - Aplicación de chat en tiempo real
-
-### Angular
-- ❤️ [Gestor de Tareas](https://github.com/tuusuario/task-manager) - Aplicación para gestión de proyectos
-- ❤️ [Portal de Noticias](https://github.com/tuusuario/news-portal) - Portal de noticias con Angular
-
 ### NestJS
 - 😺 [Products App](https://github.com/tuusuario/auth-service) - Complete microservices system for product payment processing.
 - 😺 [Main Service ProductsApp](https://github.com/josesiyo-robbio/productsApp-MicroServices.git) - Main service for products system.
