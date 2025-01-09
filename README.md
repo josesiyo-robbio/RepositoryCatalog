@@ -1,4 +1,4 @@
-#All my Repos
+This repository centralizes all my development projects, organized by language and technology, for easier access and browsing.
 
 ## JavaScript/TypeScript
 
