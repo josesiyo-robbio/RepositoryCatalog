@@ -19,8 +19,12 @@ This repository centralizes all my development projects, organized by language a
 - ❤️ [Portal de Noticias](https://github.com/tuusuario/news-portal) - Portal de noticias con Angular
 
 ### NestJS
-- 😺 [Microservicios Auth](https://github.com/tuusuario/auth-service) - Microservicio de autenticación
-- 😺 [API Gateway](https://github.com/tuusuario/api-gateway) - Gateway para microservicios
+- 😺 [Products App](https://github.com/tuusuario/auth-service) - Complete microservices system for product payment processing.
+- 😺 [Auth MS](https://github.com/josesiyo-robbio/auth_ms_nestjs.git) - Authentication microservice.
+- 😺 [API Gateway]() - Gateway para microservicios
+- 😺 [API Gateway]() - Gateway para microservicios
+- 😺 [API Gateway]() - Gateway para microservicios
+- 😺 [API Gateway]() - Gateway para microservicios
 
 ## Mobile Development
 
