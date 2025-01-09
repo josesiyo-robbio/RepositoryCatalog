@@ -52,8 +52,3 @@ This repository centralizes all my development projects, organized by language a
 - 🐘 [E-Sign](https://github.com/josesiyo-robbio/firmaElectronicaMVC.git) - Implementation of miFiel electronic signature.
 <br><br>
 
-## Contact
-
-- 📧 Email: [tu@email.com](mailto:tu@email.com)
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 🌐 [Portfolio](https://jgrb-portfolio.netlify.app/)
