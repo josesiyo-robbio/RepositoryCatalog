@@ -31,12 +31,13 @@ This repository centralizes all my development projects, organized by language a
 
 ### Flutter
 - 💙 [Credit Small Store](https://github.com/josesiyo-robbio/magicStore.git) - Credit management for a small store.
-- 💙 [App de Fitness]() - Aplicación móvil de seguimiento fitness
-- 💙 [App de Fitness]() - Aplicación móvil de seguimiento fitness
-- 💙 [App de Fitness]() - Aplicación móvil de seguimiento fitness
-- 💙 [App de Fitness]() - Aplicación móvil de seguimiento fitness
-- 💙 [Wallet App](https://github.com/tuusuario/wallet-app) - Billetera digital móvil
-
+- 💙 [ClimApp](https://github.com/josesiyo-robbio/climApp.git) - Weather app.
+- 💙 [BMI Calculator](https://github.com/josesiyo-robbio/bmi-calculator.git) - BMI calculator.
+- 💙 [Quizzler](https://github.com/josesiyo-robbio/quizzler.git) - Small quiz game.
+- 💙 [Xylophone](https://github.com/josesiyo-robbio/xylophone.git) - Virtual xylophone app.
+- 💙 [Diceegame](https://github.com/josesiyo-robbio/dicee-game.git) - Dice game simulator.
+- 💙 [Micard](https://github.com/josesiyo-robbio/MiCard.git) - Personal card using Material You.
+  
 ## Java
 
 ### Spring Boot
