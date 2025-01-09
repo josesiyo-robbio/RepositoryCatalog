@@ -8,8 +8,7 @@ This repository centralizes all my development projects, organized by language a
 - 🔹 [Book Club](https://github.com/josesiyo-robbio/book-club_express.git) - Backend for a book club.
 - 🔹 [Speed Dating](https://github.com/josesiyo-robbio/speed-dating_express) - Backend for a speed dating venue.
 - 🔹 [Kitten Adoption](https://github.com/josesiyo-robbio/kitten-adoption_express) - Backend for a cat adoption shelter.
-
-
+<br><br>
 
 ### NestJS
 - 😺 [Products App](https://github.com/tuusuario/auth-service) - Complete microservices system for product payment processing.
