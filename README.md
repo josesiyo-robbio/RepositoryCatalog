@@ -7,8 +7,7 @@ This repository centralizes all my development projects, organized by language a
 - 🔹 [Secret Santa ](https://github.com/josesiyo-robbio/secret-santa_express) - Backend for the Secret Santa game.
 - 🔹 [Book Club](https://github.com/josesiyo-robbio/book-club_express.git) - Backend for a book club.
 - 🔹 [Speed Dating](https://github.com/josesiyo-robbio/speed-dating_express) - Backend for a speed dating venue.
-- 🔹 <a href="https://github.com/josesiyo-robbio/kitten-adoption_express" target="_blank">Kitten Adoption</a> - Backend for a cat adoption shelter.
-<br><br>
+- 🔹 [Kitten Adoption](https://github.com/josesiyo-robbio/kitten-adoption_express) - Backend for a cat adoption shelter.
 
 ### NestJS
 - 😺 [Products App](https://github.com/tuusuario/auth-service) - Complete microservices system for product payment processing.
