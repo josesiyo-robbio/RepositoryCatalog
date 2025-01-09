@@ -3,8 +3,8 @@ This repository centralizes all my development projects, organized by language a
 ## JavaScript/TypeScript
 
 ### Express.js
-- 🔹 [API de Usuarios](https://github.com/tuusuario/nombre-repo) - API RESTful para gestión de usuarios
-- 🔹 [E-commerce Backend](https://github.com/tuusuario/otro-repo) - Backend para tienda online
+- 🔹 [Game Vibes](https://github.com/josesiyo-robbio/GameVibes-f2p_express) - API RESTful for game recommendations
+- 🔹 [E-commerce Backend]() - Backend para tienda online
 
 ### Vue.js
 - 💚 [Dashboard Admin](https://github.com/tuusuario/dashboard-vue) - Panel de administración con Vue 3
