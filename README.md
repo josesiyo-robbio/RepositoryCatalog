@@ -10,6 +10,7 @@ This repository centralizes all my development projects, organized by language a
 - 🔹 [Kitten Adoption](https://github.com/josesiyo-robbio/kitten-adoption_express) - Backend for a cat adoption shelter.
 
 
+
 ### NestJS
 - 😺 [Products App](https://github.com/tuusuario/auth-service) - Complete microservices system for product payment processing.
 - 😺 [Main Service ProductsApp](https://github.com/josesiyo-robbio/productsApp-MicroServices.git) - Main service for products system.
@@ -17,6 +18,7 @@ This repository centralizes all my development projects, organized by language a
 - 😺 [ProductsApp Gateway](https://github.com/josesiyo-robbio/gateway_MS_NESTJS.git) - Gateway for products app system.
 - 😺 [Orders MS](https://github.com/josesiyo-robbio/orders_ms_nestjs.git) - Orders microservice.
 - 😺 [Payments MS](https://github.com/josesiyo-robbio/payments_ms_nestjs.git) - Microservice for managing online payments.
+
 
 
 ## Mobile Development
@@ -29,7 +31,9 @@ This repository centralizes all my development projects, organized by language a
 - 💙 [Xylophone](https://github.com/josesiyo-robbio/xylophone.git) - Virtual xylophone app.
 - 💙 [Diceegame](https://github.com/josesiyo-robbio/dicee-game.git) - Dice game simulator.
 - 💙 [Micard](https://github.com/josesiyo-robbio/MiCard.git) - Personal card using Material You.
-  
+
+
+
 ## Java
 
 ### Spring Boot
@@ -39,11 +43,15 @@ This repository centralizes all my development projects, organized by language a
 - ☕ [Secret Santa (Java Version)](https://github.com/josesiyo-robbio/secret-santa_springboot.git) - Backend for the Secret Santa game.
 - ☕ [Game Vibes (Java Version)](https://github.com/josesiyo-robbio/GameVibes-F2P_springboot.git) - API RESTful for game recommendations
 
+
+
 ### Legacy Java
 - ⚡ [Netflix Clone](https://github.com/josesiyo-robbio/JavaNetflixCloneMVC.git) - Netflix clone in SpringMVC with Ant.
 - ⚡ [External Sorting](https://github.com/josesiyo-robbio/ExternalSorting.git) - External Sorting implementation in Java 8.
 - ⚡ [Movie Theaters](https://github.com/josesiyo-robbio/movieTheater-.git) - Simulation of a cinema app.
 - ⚡ [Converter](https://github.com/josesiyo-robbio/Decimal-Hexadecimal-Binary-Converter.git) - Decimal Hexadecimal Binary - Converter built from scratch.
+
+
 
 ## PHP
 - 🐘 [E-Sign](https://github.com/josesiyo-robbio/firmaElectronicaMVC.git) - Implementation of miFiel electronic signature.
