@@ -11,7 +11,7 @@ This repository centralizes all my development projects, organized by language a
 <br><br>
 
 ### ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-- 😺 [Products App] - Complete microservices system for product payment processing.
+- 😺 Products App - Complete microservices system for product payment processing.
 - 😺 [Main Service ProductsApp](https://github.com/josesiyo-robbio/productsApp-MicroServices.git) - Main service for products system.
 - 😺 [Auth MS](https://github.com/josesiyo-robbio/auth_ms_nestjs.git) - Authentication microservice.
 - 😺 [ProductsApp Gateway](https://github.com/josesiyo-robbio/gateway_MS_NESTJS.git) - Gateway for products app system.
